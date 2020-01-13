@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 9750be9ab93826a4faba13cfca59cf2b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: DrPerroDetail_GO/DrPerroDetail_GO
+    100002: DrPerroDetail_GO/DrPerroDetail_GO/BocaFeliz
+    100004: DrPerroDetail_GO/DrPerroDetail_GO/BocaTriste
+    100006: DrPerroDetail_GO/DrPerroDetail_GO/Cabeza
+    100008: DrPerroDetail_GO/DrPerroDetail_GO/Ceja
+    100010: DrPerroDetail_GO/DrPerroDetail_GO/Cuello
+    100012: DrPerroDetail_GO/DrPerroDetail_GO/Elipse
+    100014: DrPerroDetail_GO/DrPerroDetail_GO/HombroBack
+    100016: DrPerroDetail_GO/DrPerroDetail_GO/HombroFront
+    100018: DrPerroDetail_GO/DrPerroDetail_GO/Mask
+    100020: DrPerroDetail_GO/DrPerroDetail_GO/Ojo
+    100022: DrPerroDetail_GO/DrPerroDetail_GO/OjoFeliz
+    100024: DrPerroDetail_GO/DrPerroDetail_GO/OrejaBack
+    100026: DrPerroDetail_GO/DrPerroDetail_GO/OrejaFront
+    100028: DrPerroDetail_GO/DrPerroDetail_GO/Pecho
+    100030: DrPerroDetail_GO/DrPerroDetail_GO/Shadow
+    400000: DrPerroDetail_GO/DrPerroDetail_GO/Transform
+    400002: DrPerroDetail_GO/DrPerroDetail_GO/BocaFeliz/Transform
+    400004: DrPerroDetail_GO/DrPerroDetail_GO/BocaTriste/Transform
+    400006: DrPerroDetail_GO/DrPerroDetail_GO/Cabeza/Transform
+    400008: DrPerroDetail_GO/DrPerroDetail_GO/Ceja/Transform
+    400010: DrPerroDetail_GO/DrPerroDetail_GO/Cuello/Transform
+    400012: DrPerroDetail_GO/DrPerroDetail_GO/Elipse/Transform
+    400014: DrPerroDetail_GO/DrPerroDetail_GO/HombroBack/Transform
+    400016: DrPerroDetail_GO/DrPerroDetail_GO/HombroFront/Transform
+    400018: DrPerroDetail_GO/DrPerroDetail_GO/Mask/Transform
+    400020: DrPerroDetail_GO/DrPerroDetail_GO/Ojo/Transform
+    400022: DrPerroDetail_GO/DrPerroDetail_GO/OjoFeliz/Transform
+    400024: DrPerroDetail_GO/DrPerroDetail_GO/OrejaBack/Transform
+    400026: DrPerroDetail_GO/DrPerroDetail_GO/OrejaFront/Transform
+    400028: DrPerroDetail_GO/DrPerroDetail_GO/Pecho/Transform
+    400030: DrPerroDetail_GO/DrPerroDetail_GO/Shadow/Transform
+    2800000: DrPerroDetail
+    21200000: DrPerroDetail_GO/DrPerroDetail_GO/BocaFeliz/SpriteRenderer
+    21200002: DrPerroDetail_GO/DrPerroDetail_GO/BocaTriste/SpriteRenderer
+    21200004: DrPerroDetail_GO/DrPerroDetail_GO/Cabeza/SpriteRenderer
+    21200006: DrPerroDetail_GO/DrPerroDetail_GO/Ceja/SpriteRenderer
+    21200008: DrPerroDetail_GO/DrPerroDetail_GO/Cuello/SpriteRenderer
+    21200010: DrPerroDetail_GO/DrPerroDetail_GO/Elipse/SpriteRenderer
+    21200012: DrPerroDetail_GO/DrPerroDetail_GO/HombroBack/SpriteRenderer
+    21200014: DrPerroDetail_GO/DrPerroDetail_GO/HombroFront/SpriteRenderer
+    21200016: DrPerroDetail_GO/DrPerroDetail_GO/Mask/SpriteRenderer
+    21200018: DrPerroDetail_GO/DrPerroDetail_GO/Ojo/SpriteRenderer
+    21200020: DrPerroDetail_GO/DrPerroDetail_GO/OjoFeliz/SpriteRenderer
+    21200022: DrPerroDetail_GO/DrPerroDetail_GO/OrejaBack/SpriteRenderer
+    21200024: DrPerroDetail_GO/DrPerroDetail_GO/OrejaFront/SpriteRenderer
+    21200026: DrPerroDetail_GO/DrPerroDetail_GO/Pecho/SpriteRenderer
+    21200028: DrPerroDetail_GO/DrPerroDetail_GO/Shadow/SpriteRenderer
+    21300000: 30c6f7e81fda96045a6bd91fc97516cf
+    21300002: 795a99deed36f6a4c801c26d9292364d
+    21300004: 9e3ae32d95e7f3a43b15f4c603f8fa26
+    21300006: ed16b9fd66ace1b4caf5274b4118a8f3
+    21300008: 6efda27f9a379be4dbe76ec21f11f710
+    21300010: 041345ed3c7515f47a53d31e81a0ff53
+    21300012: ac608ee56eef619469089063a6ec755f
+    21300014: c2746ce7f026e8144b2f7c996d633b17
+    21300016: e70158eee43a9954f860b10997d62b58
+    21300018: b5b8c1dce6160b843baabcf0daa2448b
+    21300020: 47e295c2b6dc4a6459ae066817cc3c46
+    21300022: 0fdacdf3ef2669d4d932319865737bd0
+    21300024: 409a8ed82916e8949b877a600d4d3599
+    21300026: 1c402216b2f7c8f4e9ff07bd514ea43a
+    21300028: 97e6da744a04fa84482eacf9c8df7d26
+    100100000: DrPerroDetail_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: HombroFront
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2903
+      y: 1505
+      width: 447
+      height: 685
+    spriteID: 30c6f7e81fda96045a6bd91fc97516cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2501, y: 1027}
+  - name: OjoFeliz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3150
+      y: 2198
+      width: 128
+      height: 52
+    spriteID: 795a99deed36f6a4c801c26d9292364d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1967, y: 627}
+  - name: BocaFeliz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2903
+      y: 2286
+      width: 235
+      height: 77
+    spriteID: 9e3ae32d95e7f3a43b15f4c603f8fa26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1611, y: 946}
+  - name: BocaTriste
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2903
+      y: 2198
+      width: 239
+      height: 80
+    spriteID: ed16b9fd66ace1b4caf5274b4118a8f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1614, y: 858}
+  - name: Ceja
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3146
+      y: 2286
+      width: 83
+      height: 39
+    spriteID: 6efda27f9a379be4dbe76ec21f11f710
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1937, y: 606}
+  - name: Ojo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1950
+      y: 2685
+      width: 141
+      height: 94
+    spriteID: 041345ed3c7515f47a53d31e81a0ff53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 780, y: 1132}
+  - name: OrejaFront
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1950
+      y: 2254
+      width: 231
+      height: 423
+    spriteID: ac608ee56eef619469089063a6ec755f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1029, y: 644}
+  - name: Cabeza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1298
+      y: 2254
+      width: 644
+      height: 491
+    spriteID: c2746ce7f026e8144b2f7c996d633b17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 354, y: 968}
+  - name: OrejaBack
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2189
+      y: 2254
+      width: 182
+      height: 308
+    spriteID: e70158eee43a9954f860b10997d62b58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1044, y: 546}
+  - name: Pecho
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1298
+      y: 1505
+      width: 1076
+      height: 741
+    spriteID: b5b8c1dce6160b843baabcf0daa2448b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 672, y: 1071}
+  - name: Cuello
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2825
+      y: 4
+      width: 977
+      height: 1112
+    spriteID: 47e295c2b6dc4a6459ae066817cc3c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2200, y: -516}
+  - name: HombroBack
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2382
+      y: 1505
+      width: 513
+      height: 655
+    spriteID: 0fdacdf3ef2669d4d932319865737bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1049, y: 985}
+  - name: Elipse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1530
+      y: 4
+      width: 1287
+      height: 1287
+    spriteID: 409a8ed82916e8949b877a600d4d3599
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1055, y: -597}
+  - name: Shadow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1505
+      width: 1286
+      height: 1287
+    spriteID: 1c402216b2f7c8f4e9ff07bd514ea43a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -513, y: 933}
+  - name: Mask
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1518
+      height: 1493
+    spriteID: 97e6da744a04fa84482eacf9c8df7d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -375, y: -391}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2277, y: 2427}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: HombroFront
+    spriteName: HombroFront
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 30c6f7e81fda96045a6bd91fc97516cf
+    layerID: 27
+    mosaicPosition: {x: 2903, y: 1505}
+  - name: OjoFeliz
+    spriteName: OjoFeliz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 795a99deed36f6a4c801c26d9292364d
+    layerID: 23
+    mosaicPosition: {x: 3150, y: 2198}
+  - name: BocaFeliz
+    spriteName: BocaFeliz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e3ae32d95e7f3a43b15f4c603f8fa26
+    layerID: 22
+    mosaicPosition: {x: 2903, y: 2286}
+  - name: BocaTriste
+    spriteName: BocaTriste
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ed16b9fd66ace1b4caf5274b4118a8f3
+    layerID: 21
+    mosaicPosition: {x: 2903, y: 2198}
+  - name: Ceja
+    spriteName: Ceja
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6efda27f9a379be4dbe76ec21f11f710
+    layerID: 33
+    mosaicPosition: {x: 3146, y: 2286}
+  - name: Ojo
+    spriteName: Ojo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 041345ed3c7515f47a53d31e81a0ff53
+    layerID: 19
+    mosaicPosition: {x: 1950, y: 2685}
+  - name: OrejaFront
+    spriteName: OrejaFront
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ac608ee56eef619469089063a6ec755f
+    layerID: 15
+    mosaicPosition: {x: 1950, y: 2254}
+  - name: Cabeza
+    spriteName: Cabeza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c2746ce7f026e8144b2f7c996d633b17
+    layerID: 14
+    mosaicPosition: {x: 1298, y: 2254}
+  - name: OrejaBack
+    spriteName: OrejaBack
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e70158eee43a9954f860b10997d62b58
+    layerID: 34
+    mosaicPosition: {x: 2189, y: 2254}
+  - name: Pecho
+    spriteName: Pecho
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b5b8c1dce6160b843baabcf0daa2448b
+    layerID: 10
+    mosaicPosition: {x: 1298, y: 1505}
+  - name: Cuello
+    spriteName: Cuello
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47e295c2b6dc4a6459ae066817cc3c46
+    layerID: 9
+    mosaicPosition: {x: 2825, y: 4}
+  - name: HombroBack
+    spriteName: HombroBack
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0fdacdf3ef2669d4d932319865737bd0
+    layerID: 6
+    mosaicPosition: {x: 2382, y: 1505}
+  - name: Elipse
+    spriteName: Elipse
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 409a8ed82916e8949b877a600d4d3599
+    layerID: 4
+    mosaicPosition: {x: 1530, y: 4}
+  - name: Shadow
+    spriteName: Shadow
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c402216b2f7c8f4e9ff07bd514ea43a
+    layerID: 3
+    mosaicPosition: {x: 4, y: 1505}
+  - name: Mask
+    spriteName: Mask
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 97e6da744a04fa84482eacf9c8df7d26
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: DrPerroDetail
+  prefabAssetName: DrPerroDetail_GO

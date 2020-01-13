@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 11293339a4d796446b61e073c884bc15
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: HUD_GO/HUD_GO
+    100002: HUD_GO/HUD_GO/<Group>
+    100004: HUD_GO/HUD_GO/ButtonMenu
+    100006: HUD_GO/HUD_GO/ButtonPause
+    100008: HUD_GO/HUD_GO/ButtonPlay
+    100010: HUD_GO/HUD_GO/Chatbox
+    100012: HUD_GO/HUD_GO/HpBar
+    100014: HUD_GO/HUD_GO/HpBarBg
+    100016: HUD_GO/HUD_GO/Layer 1
+    400000: HUD_GO/HUD_GO/Transform
+    400002: HUD_GO/HUD_GO/<Group>/Transform
+    400004: HUD_GO/HUD_GO/ButtonMenu/Transform
+    400006: HUD_GO/HUD_GO/ButtonPause/Transform
+    400008: HUD_GO/HUD_GO/ButtonPlay/Transform
+    400010: HUD_GO/HUD_GO/Chatbox/Transform
+    400012: HUD_GO/HUD_GO/HpBar/Transform
+    400014: HUD_GO/HUD_GO/HpBarBg/Transform
+    400016: HUD_GO/HUD_GO/Layer 1/Transform
+    2800000: HUD
+    21200000: HUD_GO/HUD_GO/<Group>/SpriteRenderer
+    21200002: HUD_GO/HUD_GO/ButtonMenu/SpriteRenderer
+    21200004: HUD_GO/HUD_GO/ButtonPause/SpriteRenderer
+    21200006: HUD_GO/HUD_GO/ButtonPlay/SpriteRenderer
+    21200008: HUD_GO/HUD_GO/Chatbox/SpriteRenderer
+    21200010: HUD_GO/HUD_GO/HpBar/SpriteRenderer
+    21200012: HUD_GO/HUD_GO/HpBarBg/SpriteRenderer
+    21200014: HUD_GO/HUD_GO/Layer 1/SpriteRenderer
+    21300000: b96232ba404669848af100eb3005b16e
+    21300002: 325e4e7147288dd4c9084c568b1d71e9
+    21300004: 335b49e21f47ea0429d0978fd4b7042a
+    21300006: c585fe58e03c3d74589c53ef92f49062
+    21300008: 4ac6ca70f55bb9b498aa7dbe309279de
+    21300010: d022bd7465255d94bb753f9390c96d38
+    21300012: 7d115aa07ec8bce4fa032ed5bfcf77a4
+    21300014: cabe823fd84d01f459b5be41e188294a
+    100100000: HUD_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 400
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Chatbox
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1299
+      y: 4312
+      width: 2003
+      height: 786
+    spriteID: b96232ba404669848af100eb3005b16e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2923, y: 1138}
+  - name: <Group>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4312
+      width: 1287
+      height: 1287
+    spriteID: 325e4e7147288dd4c9084c568b1d71e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5982, y: 1662}
+  - name: ButtonPlay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3310
+      y: 4312
+      width: 458
+      height: 458
+    spriteID: 335b49e21f47ea0429d0978fd4b7042a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3586, y: 4088}
+  - name: ButtonPause
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3776
+      y: 4312
+      width: 458
+      height: 458
+    spriteID: c585fe58e03c3d74589c53ef92f49062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3120, y: 4088}
+  - name: ButtonMenu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7656
+      y: 3446
+      width: 531
+      height: 543
+    spriteID: 4ac6ca70f55bb9b498aa7dbe309279de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7367, y: 1808}
+  - name: HpBar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7656
+      y: 1777
+      width: 241
+      height: 1661
+    spriteID: d022bd7465255d94bb753f9390c96d38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7329, y: -522}
+  - name: HpBarBg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7656
+      y: 4
+      width: 344
+      height: 1765
+    spriteID: 7d115aa07ec8bce4fa032ed5bfcf77a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 7367, y: -2230}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 7644
+      height: 4300
+    spriteID: cabe823fd84d01f459b5be41e188294a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 7644, y: 4300}
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Chatbox
+    spriteName: Chatbox
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b96232ba404669848af100eb3005b16e
+    layerID: 17
+    mosaicPosition: {x: 1299, y: 4312}
+  - name: <Group>
+    spriteName: <Group>
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 325e4e7147288dd4c9084c568b1d71e9
+    layerID: 14
+    mosaicPosition: {x: 4, y: 4312}
+  - name: ButtonPlay
+    spriteName: ButtonPlay
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 335b49e21f47ea0429d0978fd4b7042a
+    layerID: 11
+    mosaicPosition: {x: 3310, y: 4312}
+  - name: ButtonPause
+    spriteName: ButtonPause
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c585fe58e03c3d74589c53ef92f49062
+    layerID: 10
+    mosaicPosition: {x: 3776, y: 4312}
+  - name: ButtonMenu
+    spriteName: ButtonMenu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4ac6ca70f55bb9b498aa7dbe309279de
+    layerID: 8
+    mosaicPosition: {x: 7656, y: 3446}
+  - name: HpBar
+    spriteName: HpBar
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d022bd7465255d94bb753f9390c96d38
+    layerID: 19
+    mosaicPosition: {x: 7656, y: 1777}
+  - name: HpBarBg
+    spriteName: HpBarBg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d115aa07ec8bce4fa032ed5bfcf77a4
+    layerID: 3
+    mosaicPosition: {x: 7656, y: 4}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cabe823fd84d01f459b5be41e188294a
+    layerID: 20
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: HUD
+  prefabAssetName: HUD_GO
