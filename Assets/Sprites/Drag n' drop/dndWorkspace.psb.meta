@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 0215eb582bd5f3c44bfa0d2566da22dc
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: dndWorkspace_GO/dndWorkspace_GO
+    100002: dndWorkspace_GO/dndWorkspace_GO/Block
+    100004: dndWorkspace_GO/dndWorkspace_GO/Celular
+    100006: dndWorkspace_GO/dndWorkspace_GO/Cuaderno
+    100008: dndWorkspace_GO/dndWorkspace_GO/Fondo
+    100010: dndWorkspace_GO/dndWorkspace_GO/LapiceroA
+    100012: dndWorkspace_GO/dndWorkspace_GO/LapiceroB
+    100014: dndWorkspace_GO/dndWorkspace_GO/LapiceroC
+    100016: dndWorkspace_GO/dndWorkspace_GO/LapizA
+    100018: dndWorkspace_GO/dndWorkspace_GO/LapizB
+    100020: dndWorkspace_GO/dndWorkspace_GO/Monitor
+    100022: dndWorkspace_GO/dndWorkspace_GO/Mouse
+    100024: dndWorkspace_GO/dndWorkspace_GO/Pad
+    100026: dndWorkspace_GO/dndWorkspace_GO/Papeles
+    100028: dndWorkspace_GO/dndWorkspace_GO/Sandwich
+    100030: dndWorkspace_GO/dndWorkspace_GO/TazaLlena
+    100032: dndWorkspace_GO/dndWorkspace_GO/TazaVacia
+    100034: dndWorkspace_GO/dndWorkspace_GO/Teclado
+    400000: dndWorkspace_GO/dndWorkspace_GO/Transform
+    400002: dndWorkspace_GO/dndWorkspace_GO/Block/Transform
+    400004: dndWorkspace_GO/dndWorkspace_GO/Celular/Transform
+    400006: dndWorkspace_GO/dndWorkspace_GO/Cuaderno/Transform
+    400008: dndWorkspace_GO/dndWorkspace_GO/Fondo/Transform
+    400010: dndWorkspace_GO/dndWorkspace_GO/LapiceroA/Transform
+    400012: dndWorkspace_GO/dndWorkspace_GO/LapiceroB/Transform
+    400014: dndWorkspace_GO/dndWorkspace_GO/LapiceroC/Transform
+    400016: dndWorkspace_GO/dndWorkspace_GO/LapizA/Transform
+    400018: dndWorkspace_GO/dndWorkspace_GO/LapizB/Transform
+    400020: dndWorkspace_GO/dndWorkspace_GO/Monitor/Transform
+    400022: dndWorkspace_GO/dndWorkspace_GO/Mouse/Transform
+    400024: dndWorkspace_GO/dndWorkspace_GO/Pad/Transform
+    400026: dndWorkspace_GO/dndWorkspace_GO/Papeles/Transform
+    400028: dndWorkspace_GO/dndWorkspace_GO/Sandwich/Transform
+    400030: dndWorkspace_GO/dndWorkspace_GO/TazaLlena/Transform
+    400032: dndWorkspace_GO/dndWorkspace_GO/TazaVacia/Transform
+    400034: dndWorkspace_GO/dndWorkspace_GO/Teclado/Transform
+    2800000: dndWorkspace
+    21200000: dndWorkspace_GO/dndWorkspace_GO/Block/SpriteRenderer
+    21200002: dndWorkspace_GO/dndWorkspace_GO/Celular/SpriteRenderer
+    21200004: dndWorkspace_GO/dndWorkspace_GO/Cuaderno/SpriteRenderer
+    21200006: dndWorkspace_GO/dndWorkspace_GO/Fondo/SpriteRenderer
+    21200008: dndWorkspace_GO/dndWorkspace_GO/LapiceroA/SpriteRenderer
+    21200010: dndWorkspace_GO/dndWorkspace_GO/LapiceroB/SpriteRenderer
+    21200012: dndWorkspace_GO/dndWorkspace_GO/LapiceroC/SpriteRenderer
+    21200014: dndWorkspace_GO/dndWorkspace_GO/LapizA/SpriteRenderer
+    21200016: dndWorkspace_GO/dndWorkspace_GO/LapizB/SpriteRenderer
+    21200018: dndWorkspace_GO/dndWorkspace_GO/Monitor/SpriteRenderer
+    21200020: dndWorkspace_GO/dndWorkspace_GO/Mouse/SpriteRenderer
+    21200022: dndWorkspace_GO/dndWorkspace_GO/Pad/SpriteRenderer
+    21200024: dndWorkspace_GO/dndWorkspace_GO/Papeles/SpriteRenderer
+    21200026: dndWorkspace_GO/dndWorkspace_GO/Sandwich/SpriteRenderer
+    21200028: dndWorkspace_GO/dndWorkspace_GO/TazaLlena/SpriteRenderer
+    21200030: dndWorkspace_GO/dndWorkspace_GO/TazaVacia/SpriteRenderer
+    21200032: dndWorkspace_GO/dndWorkspace_GO/Teclado/SpriteRenderer
+    21300000: ffdf2cd2b8b7a4e4b9b3b9adbc825ce1
+    21300002: e13c6ca4f30cb4f478649ef44f1bfd13
+    21300004: bf321f93615b6c4469652a919619496a
+    21300006: 282391022bc27a14c9ef4975a3d8424e
+    21300008: 3413d45b35500c64390c011e653345e8
+    21300010: 56790046dafa68f4abc4d930ec737717
+    21300012: eb02b3847883d634b885d9ecea4c0a0d
+    21300014: c3ba93a80f7773b45823a3a336d7a062
+    21300016: 7ad59bbba8f1cca43b083d46d66eba42
+    21300018: db3e55a8952caa24f86a441b21c0fecf
+    21300020: 2960e1cebfa93c74ba791154e8b48711
+    21300022: c1789011433ead449bad0300f2ccec26
+    21300024: 4ac5e9a4427dcaa4fb77e5756b496f50
+    21300026: 50f39d60f1b97074aa9174b11d7b37e0
+    21300028: 9e72f623ba6e8774ab4d8128f4b809e5
+    21300030: 9cd3f32f2dd7c41488f13443dd5f53d9
+    21300032: fe1e1855fe42bf94ea7e7b371b739633
+    100100000: dndWorkspace_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 365
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Celular
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5951
+      y: 3763
+      width: 743
+      height: 828
+    spriteID: ffdf2cd2b8b7a4e4b9b3b9adbc825ce1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1875, y: 3542}
+  - name: Block
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4268
+      y: 3763
+      width: 816
+      height: 970
+    spriteID: e13c6ca4f30cb4f478649ef44f1bfd13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1160, y: 3016}
+  - name: Cuaderno
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6680
+      y: 4
+      width: 1492
+      height: 1689
+    spriteID: bf321f93615b6c4469652a919619496a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6414, y: -183}
+  - name: LapiceroA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5951
+      y: 4599
+      width: 554
+      height: 227
+    spriteID: 282391022bc27a14c9ef4975a3d8424e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3471, y: 2721}
+  - name: LapiceroB
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7229
+      y: 4326
+      width: 543
+      height: 339
+    spriteID: 3413d45b35500c64390c011e653345e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5214, y: 4014}
+  - name: LapiceroC
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6702
+      y: 4326
+      width: 519
+      height: 377
+    spriteID: 56790046dafa68f4abc4d930ec737717
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3543, y: 2531}
+  - name: LapizA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7931
+      y: 4326
+      width: 143
+      height: 515
+    spriteID: eb02b3847883d634b885d9ecea4c0a0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1918, y: 2445}
+  - name: LapizB
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7780
+      y: 4326
+      width: 143
+      height: 516
+    spriteID: c3ba93a80f7773b45823a3a336d7a062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4071, y: 2575}
+  - name: Sandwich
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3224
+      y: 3763
+      width: 1036
+      height: 1036
+    spriteID: 7ad59bbba8f1cca43b083d46d66eba42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1635, y: 1750}
+  - name: TazaVacia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7266
+      y: 3763
+      width: 589
+      height: 515
+    spriteID: db3e55a8952caa24f86a441b21c0fecf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1874, y: 682}
+  - name: TazaLlena
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6702
+      y: 3763
+      width: 556
+      height: 555
+    spriteID: 2960e1cebfa93c74ba791154e8b48711
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5764, y: 1304}
+  - name: Papeles
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6680
+      y: 1701
+      width: 1331
+      height: 1746
+    spriteID: c1789011433ead449bad0300f2ccec26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6438, y: -149}
+  - name: Mouse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7863
+      y: 3763
+      width: 287
+      height: 396
+    spriteID: 4ac5e9a4427dcaa4fb77e5756b496f50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2994, y: 2683}
+  - name: Teclado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4865
+      width: 1914
+      height: 1230
+    spriteID: 50f39d60f1b97074aa9174b11d7b37e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1803, y: 4088}
+  - name: Monitor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3763
+      width: 3212
+      height: 1094
+    spriteID: 9e72f623ba6e8774ab4d8128f4b809e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1724, y: 1528}
+  - name: Pad
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5092
+      y: 3763
+      width: 851
+      height: 888
+    spriteID: 9cd3f32f2dd7c41488f13443dd5f53d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1190, y: 2507}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 6668
+      height: 3751
+    spriteID: fe1e1855fe42bf94ea7e7b371b739633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 6668, y: 3751}
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Celular
+    spriteName: Celular
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ffdf2cd2b8b7a4e4b9b3b9adbc825ce1
+    layerID: 58
+    mosaicPosition: {x: 5951, y: 3763}
+  - name: Block
+    spriteName: Block
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e13c6ca4f30cb4f478649ef44f1bfd13
+    layerID: 48
+    mosaicPosition: {x: 4268, y: 3763}
+  - name: Cuaderno
+    spriteName: Cuaderno
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf321f93615b6c4469652a919619496a
+    layerID: 42
+    mosaicPosition: {x: 6680, y: 4}
+  - name: LapiceroA
+    spriteName: LapiceroA
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 282391022bc27a14c9ef4975a3d8424e
+    layerID: 41
+    mosaicPosition: {x: 5951, y: 4599}
+  - name: LapiceroB
+    spriteName: LapiceroB
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3413d45b35500c64390c011e653345e8
+    layerID: 40
+    mosaicPosition: {x: 7229, y: 4326}
+  - name: LapiceroC
+    spriteName: LapiceroC
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 56790046dafa68f4abc4d930ec737717
+    layerID: 39
+    mosaicPosition: {x: 6702, y: 4326}
+  - name: LapizA
+    spriteName: LapizA
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb02b3847883d634b885d9ecea4c0a0d
+    layerID: 38
+    mosaicPosition: {x: 7931, y: 4326}
+  - name: LapizB
+    spriteName: LapizB
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c3ba93a80f7773b45823a3a336d7a062
+    layerID: 37
+    mosaicPosition: {x: 7780, y: 4326}
+  - name: Sandwich
+    spriteName: Sandwich
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7ad59bbba8f1cca43b083d46d66eba42
+    layerID: 34
+    mosaicPosition: {x: 3224, y: 3763}
+  - name: TazaVacia
+    spriteName: TazaVacia
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db3e55a8952caa24f86a441b21c0fecf
+    layerID: 30
+    mosaicPosition: {x: 7266, y: 3763}
+  - name: TazaLlena
+    spriteName: TazaLlena
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2960e1cebfa93c74ba791154e8b48711
+    layerID: 26
+    mosaicPosition: {x: 6702, y: 3763}
+  - name: Papeles
+    spriteName: Papeles
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c1789011433ead449bad0300f2ccec26
+    layerID: 22
+    mosaicPosition: {x: 6680, y: 1701}
+  - name: Mouse
+    spriteName: Mouse
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4ac5e9a4427dcaa4fb77e5756b496f50
+    layerID: 18
+    mosaicPosition: {x: 7863, y: 3763}
+  - name: Teclado
+    spriteName: Teclado
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 50f39d60f1b97074aa9174b11d7b37e0
+    layerID: 11
+    mosaicPosition: {x: 4, y: 4865}
+  - name: Monitor
+    spriteName: Monitor
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e72f623ba6e8774ab4d8128f4b809e5
+    layerID: 4
+    mosaicPosition: {x: 4, y: 3763}
+  - name: Pad
+    spriteName: Pad
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9cd3f32f2dd7c41488f13443dd5f53d9
+    layerID: 3
+    mosaicPosition: {x: 5092, y: 3763}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe1e1855fe42bf94ea7e7b371b739633
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: dndWorkspace
+  prefabAssetName: dndWorkspace_GO
