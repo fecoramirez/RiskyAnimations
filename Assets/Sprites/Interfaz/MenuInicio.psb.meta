@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 2c8fd60d98f3eeb4f9dbf22197d66199
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: MenuInicio_GO/MenuInicio_GO
+    100002: MenuInicio_GO/MenuInicio_GO/LLENAR DATOS
+    100004: MenuInicio_GO/MenuInicio_GO/Logo
+    100006: MenuInicio_GO/MenuInicio_GO/Pared
+    100008: MenuInicio_GO/MenuInicio_GO/Piso
+    100010: MenuInicio_GO/MenuInicio_GO/RiskyWorkspace desarrollado por DreamLabs.
+      Todos los derechos reservados 2020.
+    100012: MenuInicio_GO/MenuInicio_GO/Salir
+    100014: MenuInicio_GO/MenuInicio_GO/Ventana1
+    100016: MenuInicio_GO/MenuInicio_GO/Ventana2
+    400000: MenuInicio_GO/MenuInicio_GO/Transform
+    400002: MenuInicio_GO/MenuInicio_GO/LLENAR DATOS/Transform
+    400004: MenuInicio_GO/MenuInicio_GO/Logo/Transform
+    400006: MenuInicio_GO/MenuInicio_GO/Pared/Transform
+    400008: MenuInicio_GO/MenuInicio_GO/Piso/Transform
+    400010: MenuInicio_GO/MenuInicio_GO/RiskyWorkspace desarrollado por DreamLabs.
+      Todos los derechos reservados 2020./Transform
+    400012: MenuInicio_GO/MenuInicio_GO/Salir/Transform
+    400014: MenuInicio_GO/MenuInicio_GO/Ventana1/Transform
+    400016: MenuInicio_GO/MenuInicio_GO/Ventana2/Transform
+    2800000: MenuInicio
+    21200000: MenuInicio_GO/MenuInicio_GO/LLENAR DATOS/SpriteRenderer
+    21200002: MenuInicio_GO/MenuInicio_GO/Logo/SpriteRenderer
+    21200004: MenuInicio_GO/MenuInicio_GO/Pared/SpriteRenderer
+    21200006: MenuInicio_GO/MenuInicio_GO/Piso/SpriteRenderer
+    21200008: MenuInicio_GO/MenuInicio_GO/RiskyWorkspace desarrollado por DreamLabs.
+      Todos los derechos reservados 2020./SpriteRenderer
+    21200010: MenuInicio_GO/MenuInicio_GO/Salir/SpriteRenderer
+    21200012: MenuInicio_GO/MenuInicio_GO/Ventana1/SpriteRenderer
+    21200014: MenuInicio_GO/MenuInicio_GO/Ventana2/SpriteRenderer
+    21300000: f7bb816aad68a49469a87d281775e12b
+    21300002: f3b743adf3c9c99498033b6b2ab8df75
+    21300004: 7d3d268384e132841b22d3bf85796e7c
+    21300006: 5cd63b4e5b9be7243b104cfe47829a8a
+    21300008: 3bfe4f97f7e7af3458d1225f41858df6
+    21300010: a919b15611470fe4c9ab645837b094eb
+    21300012: 31528eb683d6efd46abdc4050787e343
+    21300014: 88c3a14cd7996074e8b5ab30e4a5a8c7
+    100100000: MenuInicio_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 218
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Salir
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2042
+      y: 4702
+      width: 270
+      height: 233
+    spriteID: f7bb816aad68a49469a87d281775e12b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1988, y: 4660}
+  - name: RiskyWorkspace desarrollado por DreamLabs. Todos los derechos reservados
+      2020.
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1480
+      y: 5256
+      width: 2105
+      height: 49
+    spriteID: f3b743adf3c9c99498033b6b2ab8df75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 531, y: 5196}
+  - name: Logo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4468
+      width: 2030
+      height: 780
+    spriteID: 7d3d268384e132841b22d3bf85796e7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -981, y: 3592}
+  - name: LLENAR DATOS
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2042
+      y: 4468
+      width: 1192
+      height: 226
+    spriteID: 5cd63b4e5b9be7243b104cfe47829a8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 638, y: 3979}
+  - name: Piso
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4000
+      height: 2250
+    spriteID: 3bfe4f97f7e7af3458d1225f41858df6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Ventana2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5256
+      width: 730
+      height: 910
+    spriteID: a919b15611470fe4c9ab645837b094eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3095, y: 4350}
+  - name: Ventana1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 742
+      y: 5256
+      width: 730
+      height: 910
+    spriteID: 31528eb683d6efd46abdc4050787e343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 571, y: 4350}
+  - name: Pared
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2262
+      width: 4000
+      height: 2198
+    spriteID: 88c3a14cd7996074e8b5ab30e4a5a8c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2210}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 4000, y: 2250}
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Salir
+    spriteName: Salir
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f7bb816aad68a49469a87d281775e12b
+    layerID: 79
+    mosaicPosition: {x: 2042, y: 4702}
+  - name: RiskyWorkspace desarrollado por DreamLabs. Todos los derechos reservados
+      2020.
+    spriteName: RiskyWorkspace desarrollado por DreamLabs. Todos los derechos reservados
+      2020.
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3b743adf3c9c99498033b6b2ab8df75
+    layerID: 70
+    mosaicPosition: {x: 1480, y: 5256}
+  - name: Logo
+    spriteName: Logo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d3d268384e132841b22d3bf85796e7c
+    layerID: 77
+    mosaicPosition: {x: 4, y: 4468}
+  - name: LLENAR DATOS
+    spriteName: LLENAR DATOS
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5cd63b4e5b9be7243b104cfe47829a8a
+    layerID: 48
+    mosaicPosition: {x: 2042, y: 4468}
+  - name: Piso
+    spriteName: Piso
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3bfe4f97f7e7af3458d1225f41858df6
+    layerID: 45
+    mosaicPosition: {x: 4, y: 4}
+  - name: Ventana2
+    spriteName: Ventana2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a919b15611470fe4c9ab645837b094eb
+    layerID: 22
+    mosaicPosition: {x: 4, y: 5256}
+  - name: Ventana1
+    spriteName: Ventana1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 31528eb683d6efd46abdc4050787e343
+    layerID: 12
+    mosaicPosition: {x: 742, y: 5256}
+  - name: Pared
+    spriteName: Pared
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88c3a14cd7996074e8b5ab30e4a5a8c7
+    layerID: 2
+    mosaicPosition: {x: 4, y: 2262}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: MenuInicio
+  prefabAssetName: MenuInicio_GO

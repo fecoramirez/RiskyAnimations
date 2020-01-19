@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: da1cf74f52b610f4ba94ce6eedfeda68
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Resultados_GO/Resultados_GO
+    100002: Resultados_GO/Resultados_GO/CONTINUAR
+    100004: Resultados_GO/Resultados_GO/Estrellap1
+    100006: Resultados_GO/Resultados_GO/Estrellap2
+    100008: Resultados_GO/Resultados_GO/Fondo
+    100010: Resultados_GO/Resultados_GO/Fondo_1
+    100012: Resultados_GO/Resultados_GO/Ref
+    100014: Resultados_GO/Resultados_GO/ResultadosDia
+    100016: Resultados_GO/Resultados_GO/TextoRef
+    400000: Resultados_GO/Resultados_GO/Transform
+    400002: Resultados_GO/Resultados_GO/CONTINUAR/Transform
+    400004: Resultados_GO/Resultados_GO/Estrellap1/Transform
+    400006: Resultados_GO/Resultados_GO/Estrellap2/Transform
+    400008: Resultados_GO/Resultados_GO/Fondo/Transform
+    400010: Resultados_GO/Resultados_GO/Fondo_1/Transform
+    400012: Resultados_GO/Resultados_GO/Ref/Transform
+    400014: Resultados_GO/Resultados_GO/ResultadosDia/Transform
+    400016: Resultados_GO/Resultados_GO/TextoRef/Transform
+    2800000: Resultados
+    21200000: Resultados_GO/Resultados_GO/CONTINUAR/SpriteRenderer
+    21200002: Resultados_GO/Resultados_GO/Estrellap1/SpriteRenderer
+    21200004: Resultados_GO/Resultados_GO/Estrellap2/SpriteRenderer
+    21200006: Resultados_GO/Resultados_GO/Fondo/SpriteRenderer
+    21200008: Resultados_GO/Resultados_GO/Fondo_1/SpriteRenderer
+    21200010: Resultados_GO/Resultados_GO/Ref/SpriteRenderer
+    21200012: Resultados_GO/Resultados_GO/ResultadosDia/SpriteRenderer
+    21200014: Resultados_GO/Resultados_GO/TextoRef/SpriteRenderer
+    21300000: 32686a4f1d5878c4e9b9c3928e074286
+    21300002: 9ed7088a104419342ad30c074fba2f1c
+    21300004: a0b9a0133a439284fb10fd0e6c3d8ca8
+    21300006: 525bac6e55689c64ebe8e99f1b175ca9
+    21300008: fda7cd758b6c6484a8edcacbf3fa13de
+    21300010: 7d4ab137f95f0234a9099f30774cc746
+    21300012: 1be78f320b87c6547934e332f5f505a1
+    21300014: b56ddffedff49b548b47e7394a7a42bd
+    100100000: Resultados_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 218
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: CONTINUAR
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3364
+      y: 2262
+      width: 546
+      height: 177
+    spriteID: 32686a4f1d5878c4e9b9c3928e074286
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -11, y: 2193}
+  - name: ResultadosDia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2154
+      y: 2514
+      width: 602
+      height: 283
+    spriteID: 9ed7088a104419342ad30c074fba2f1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 898, y: 1190}
+  - name: TextoRef
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2154
+      y: 2805
+      width: 1436
+      height: 113
+    spriteID: a0b9a0133a439284fb10fd0e6c3d8ca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 901, y: 2054}
+  - name: Estrellap1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3918
+      y: 2262
+      width: 129
+      height: 244
+    spriteID: 525bac6e55689c64ebe8e99f1b175ca9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2675, y: 1288}
+  - name: Estrellap2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2764
+      y: 2514
+      width: 128
+      height: 244
+    spriteID: fda7cd758b6c6484a8edcacbf3fa13de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1393, y: 1540}
+  - name: Ref
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2154
+      y: 2262
+      width: 1202
+      height: 244
+    spriteID: 7d4ab137f95f0234a9099f30774cc746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 597, y: 1288}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2262
+      width: 2142
+      height: 1481
+    spriteID: 1be78f320b87c6547934e332f5f505a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -925, y: 1888}
+  - name: Fondo_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4000
+      height: 2250
+    spriteID: b56ddffedff49b548b47e7394a7a42bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 4000, y: 2250}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: CONTINUAR
+    spriteName: CONTINUAR
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 32686a4f1d5878c4e9b9c3928e074286
+    layerID: 33
+    mosaicPosition: {x: 3364, y: 2262}
+  - name: ResultadosDia
+    spriteName: ResultadosDia
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ed7088a104419342ad30c074fba2f1c
+    layerID: 41
+    mosaicPosition: {x: 2154, y: 2514}
+  - name: TextoRef
+    spriteName: TextoRef
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0b9a0133a439284fb10fd0e6c3d8ca8
+    layerID: 28
+    mosaicPosition: {x: 2154, y: 2805}
+  - name: Estrellap1
+    spriteName: Estrellap1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 525bac6e55689c64ebe8e99f1b175ca9
+    layerID: 36
+    mosaicPosition: {x: 3918, y: 2262}
+  - name: Estrellap2
+    spriteName: Estrellap2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fda7cd758b6c6484a8edcacbf3fa13de
+    layerID: 37
+    mosaicPosition: {x: 2764, y: 2514}
+  - name: Ref
+    spriteName: Ref
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d4ab137f95f0234a9099f30774cc746
+    layerID: 25
+    mosaicPosition: {x: 2154, y: 2262}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1be78f320b87c6547934e332f5f505a1
+    layerID: 24
+    mosaicPosition: {x: 4, y: 2262}
+  - name: Fondo
+    spriteName: Fondo_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b56ddffedff49b548b47e7394a7a42bd
+    layerID: 49
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Resultados
+  prefabAssetName: Resultados_GO

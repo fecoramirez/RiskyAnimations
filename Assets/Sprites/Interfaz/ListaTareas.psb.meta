@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: fe06bc3653931c14287a7fc932c4b977
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: ListaTareas_GO/ListaTareas_GO
+    100002: ListaTareas_GO/ListaTareas_GO/Check
+    100004: ListaTareas_GO/ListaTareas_GO/Checkbox
+    100006: ListaTareas_GO/ListaTareas_GO/Continuar
+    100008: ListaTareas_GO/ListaTareas_GO/Fondo
+    100010: ListaTareas_GO/ListaTareas_GO/FondoLista
+    100012: ListaTareas_GO/ListaTareas_GO/ListaTareas
+    100014: ListaTareas_GO/ListaTareas_GO/Ref
+    100016: ListaTareas_GO/ListaTareas_GO/RellenoPA
+    400000: ListaTareas_GO/ListaTareas_GO/Transform
+    400002: ListaTareas_GO/ListaTareas_GO/Check/Transform
+    400004: ListaTareas_GO/ListaTareas_GO/Checkbox/Transform
+    400006: ListaTareas_GO/ListaTareas_GO/Continuar/Transform
+    400008: ListaTareas_GO/ListaTareas_GO/Fondo/Transform
+    400010: ListaTareas_GO/ListaTareas_GO/FondoLista/Transform
+    400012: ListaTareas_GO/ListaTareas_GO/ListaTareas/Transform
+    400014: ListaTareas_GO/ListaTareas_GO/Ref/Transform
+    400016: ListaTareas_GO/ListaTareas_GO/RellenoPA/Transform
+    2800000: ListaTareas
+    21200000: ListaTareas_GO/ListaTareas_GO/Check/SpriteRenderer
+    21200002: ListaTareas_GO/ListaTareas_GO/Checkbox/SpriteRenderer
+    21200004: ListaTareas_GO/ListaTareas_GO/Continuar/SpriteRenderer
+    21200006: ListaTareas_GO/ListaTareas_GO/Fondo/SpriteRenderer
+    21200008: ListaTareas_GO/ListaTareas_GO/FondoLista/SpriteRenderer
+    21200010: ListaTareas_GO/ListaTareas_GO/ListaTareas/SpriteRenderer
+    21200012: ListaTareas_GO/ListaTareas_GO/Ref/SpriteRenderer
+    21200014: ListaTareas_GO/ListaTareas_GO/RellenoPA/SpriteRenderer
+    21300000: f6fa4df669d80c54c8f676f65a52c504
+    21300002: 463435c0119c8af4a883b987ce7e0e3a
+    21300004: bb9a034fbe71aad4a9d01066d1e54160
+    21300006: 541dfc9961239584abb69157bb9ea8a7
+    21300008: 6204dc6a2b5d3f848902b6996c15476c
+    21300010: 29bd525f8081f6247991e67bd8942575
+    21300012: 33eb4581442d84d4b984424e787b7080
+    21300014: e2af2f9f15ff0be4488ff3cd2831ed6d
+    100100000: ListaTareas_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 218
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: RellenoPA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5069
+      width: 602
+      height: 1268
+    spriteID: f6fa4df669d80c54c8f676f65a52c504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3165, y: 4667}
+  - name: Check
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1635
+      y: 4230
+      width: 169
+      height: 123
+    spriteID: 463435c0119c8af4a883b987ce7e0e3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1069, y: 3000}
+  - name: Checkbox
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1635
+      y: 4361
+      width: 132
+      height: 133
+    spriteID: bb9a034fbe71aad4a9d01066d1e54160
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1045, y: 3161}
+  - name: ListaTareas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 614
+      y: 5069
+      width: 688
+      height: 284
+    spriteID: 541dfc9961239584abb69157bb9ea8a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -577, y: 3541}
+  - name: Continuar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6345
+      width: 545
+      height: 177
+    spriteID: 6204dc6a2b5d3f848902b6996c15476c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3369, y: 6259}
+  - name: Ref
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4230
+      width: 1623
+      height: 831
+    spriteID: 29bd525f8081f6247991e67bd8942575
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1185, y: 3733}
+  - name: FondoLista
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2262
+      width: 2142
+      height: 1960
+    spriteID: 33eb4581442d84d4b984424e787b7080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -925, y: 2117}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4000
+      height: 2250
+    spriteID: e2af2f9f15ff0be4488ff3cd2831ed6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 4000, y: 2250}
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: RellenoPA
+    spriteName: RellenoPA
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6fa4df669d80c54c8f676f65a52c504
+    layerID: 78
+    mosaicPosition: {x: 4, y: 5069}
+  - name: Check
+    spriteName: Check
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 463435c0119c8af4a883b987ce7e0e3a
+    layerID: 64
+    mosaicPosition: {x: 1635, y: 4230}
+  - name: Checkbox
+    spriteName: Checkbox
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bb9a034fbe71aad4a9d01066d1e54160
+    layerID: 62
+    mosaicPosition: {x: 1635, y: 4361}
+  - name: ListaTareas
+    spriteName: ListaTareas
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 541dfc9961239584abb69157bb9ea8a7
+    layerID: 60
+    mosaicPosition: {x: 614, y: 5069}
+  - name: Continuar
+    spriteName: Continuar
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6204dc6a2b5d3f848902b6996c15476c
+    layerID: 58
+    mosaicPosition: {x: 4, y: 6345}
+  - name: Ref
+    spriteName: Ref
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 29bd525f8081f6247991e67bd8942575
+    layerID: 56
+    mosaicPosition: {x: 4, y: 4230}
+  - name: FondoLista
+    spriteName: FondoLista
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33eb4581442d84d4b984424e787b7080
+    layerID: 52
+    mosaicPosition: {x: 4, y: 2262}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e2af2f9f15ff0be4488ff3cd2831ed6d
+    layerID: 49
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: ListaTareas
+  prefabAssetName: ListaTareas_GO
