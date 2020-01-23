@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 766f29b26da3ee84bae634dc45fed603
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: MesaPasillo_GO/MesaPasillo_GO
+    100002: MesaPasillo_GO/MesaPasillo_GO/Agua
+    100004: MesaPasillo_GO/MesaPasillo_GO/Fondo
+    100006: MesaPasillo_GO/MesaPasillo_GO/Hojas
+    100008: MesaPasillo_GO/MesaPasillo_GO/Laptop
+    100010: MesaPasillo_GO/MesaPasillo_GO/Periodico
+    100012: MesaPasillo_GO/MesaPasillo_GO/PostIt
+    100014: MesaPasillo_GO/MesaPasillo_GO/Taza
+    400000: MesaPasillo_GO/MesaPasillo_GO/Transform
+    400002: MesaPasillo_GO/MesaPasillo_GO/Agua/Transform
+    400004: MesaPasillo_GO/MesaPasillo_GO/Fondo/Transform
+    400006: MesaPasillo_GO/MesaPasillo_GO/Hojas/Transform
+    400008: MesaPasillo_GO/MesaPasillo_GO/Laptop/Transform
+    400010: MesaPasillo_GO/MesaPasillo_GO/Periodico/Transform
+    400012: MesaPasillo_GO/MesaPasillo_GO/PostIt/Transform
+    400014: MesaPasillo_GO/MesaPasillo_GO/Taza/Transform
+    2800000: MesaPasillo
+    21200000: MesaPasillo_GO/MesaPasillo_GO/Agua/SpriteRenderer
+    21200002: MesaPasillo_GO/MesaPasillo_GO/Fondo/SpriteRenderer
+    21200004: MesaPasillo_GO/MesaPasillo_GO/Hojas/SpriteRenderer
+    21200006: MesaPasillo_GO/MesaPasillo_GO/Laptop/SpriteRenderer
+    21200008: MesaPasillo_GO/MesaPasillo_GO/Periodico/SpriteRenderer
+    21200010: MesaPasillo_GO/MesaPasillo_GO/PostIt/SpriteRenderer
+    21200012: MesaPasillo_GO/MesaPasillo_GO/Taza/SpriteRenderer
+    21300000: f1bab3ac5008a9048a0176ea71f8e5d0
+    21300002: 07e33c9e0a6d580468afd28f6f2fc948
+    21300004: 6288e89227b073d4f9521be0d1014bbc
+    21300006: 45b142d1511f14148afdc26c158ab080
+    21300008: a8358034e1c703d46be859ba5fdc797e
+    21300010: 971556bf4ec055342b949b39cc9a3540
+    21300012: 9eb0c7f2652a5d6498c3a4bf34960573
+    100100000: MesaPasillo_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 143
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Taza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3794
+      y: 236
+      width: 249
+      height: 201
+    spriteID: f1bab3ac5008a9048a0176ea71f8e5d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1678, y: -84}
+  - name: Periodico
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1513
+      width: 934
+      height: 832
+    spriteID: 07e33c9e0a6d580468afd28f6f2fc948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1509, y: 1012}
+  - name: PostIt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 1030
+      width: 400
+      height: 325
+    spriteID: 6288e89227b073d4f9521be0d1014bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1881, y: -37}
+  - name: Agua
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3794
+      y: 4
+      width: 224
+      height: 224
+    spriteID: 45b142d1511f14148afdc26c158ab080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3550, y: -192}
+  - name: Laptop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 4
+      width: 1107
+      height: 1018
+    spriteID: a8358034e1c703d46be859ba5fdc797e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2170, y: -75}
+  - name: Hojas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 946
+      y: 1513
+      width: 593
+      height: 731
+    spriteID: 971556bf4ec055342b949b39cc9a3540
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 887, y: 811}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2667
+      height: 1501
+    spriteID: 9eb0c7f2652a5d6498c3a4bf34960573
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2667, y: 1501}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Taza
+    spriteName: Taza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f1bab3ac5008a9048a0176ea71f8e5d0
+    layerID: 48
+    mosaicPosition: {x: 3794, y: 236}
+  - name: Periodico
+    spriteName: Periodico
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 07e33c9e0a6d580468afd28f6f2fc948
+    layerID: 44
+    mosaicPosition: {x: 4, y: 1513}
+  - name: PostIt
+    spriteName: PostIt
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6288e89227b073d4f9521be0d1014bbc
+    layerID: 35
+    mosaicPosition: {x: 2679, y: 1030}
+  - name: Agua
+    spriteName: Agua
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 45b142d1511f14148afdc26c158ab080
+    layerID: 33
+    mosaicPosition: {x: 3794, y: 4}
+  - name: Laptop
+    spriteName: Laptop
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a8358034e1c703d46be859ba5fdc797e
+    layerID: 24
+    mosaicPosition: {x: 2679, y: 4}
+  - name: Hojas
+    spriteName: Hojas
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 971556bf4ec055342b949b39cc9a3540
+    layerID: 11
+    mosaicPosition: {x: 946, y: 1513}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9eb0c7f2652a5d6498c3a4bf34960573
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: MesaPasillo
+  prefabAssetName: MesaPasillo_GO

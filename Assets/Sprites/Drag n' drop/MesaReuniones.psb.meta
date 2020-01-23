@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 839ce1d7c06bc424e958419a876d28b0
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: MesaReuniones_GO/MesaReuniones_GO
+    100002: MesaReuniones_GO/MesaReuniones_GO/Agua
+    100004: MesaReuniones_GO/MesaReuniones_GO/Block
+    100006: MesaReuniones_GO/MesaReuniones_GO/Celular
+    100008: MesaReuniones_GO/MesaReuniones_GO/Fondo
+    100010: MesaReuniones_GO/MesaReuniones_GO/Hojas
+    100012: MesaReuniones_GO/MesaReuniones_GO/Laptop
+    100014: MesaReuniones_GO/MesaReuniones_GO/Mousepad
+    100016: MesaReuniones_GO/MesaReuniones_GO/Taza
+    400000: MesaReuniones_GO/MesaReuniones_GO/Transform
+    400002: MesaReuniones_GO/MesaReuniones_GO/Agua/Transform
+    400004: MesaReuniones_GO/MesaReuniones_GO/Block/Transform
+    400006: MesaReuniones_GO/MesaReuniones_GO/Celular/Transform
+    400008: MesaReuniones_GO/MesaReuniones_GO/Fondo/Transform
+    400010: MesaReuniones_GO/MesaReuniones_GO/Hojas/Transform
+    400012: MesaReuniones_GO/MesaReuniones_GO/Laptop/Transform
+    400014: MesaReuniones_GO/MesaReuniones_GO/Mousepad/Transform
+    400016: MesaReuniones_GO/MesaReuniones_GO/Taza/Transform
+    2800000: MesaReuniones
+    21200000: MesaReuniones_GO/MesaReuniones_GO/Agua/SpriteRenderer
+    21200002: MesaReuniones_GO/MesaReuniones_GO/Block/SpriteRenderer
+    21200004: MesaReuniones_GO/MesaReuniones_GO/Celular/SpriteRenderer
+    21200006: MesaReuniones_GO/MesaReuniones_GO/Fondo/SpriteRenderer
+    21200008: MesaReuniones_GO/MesaReuniones_GO/Hojas/SpriteRenderer
+    21200010: MesaReuniones_GO/MesaReuniones_GO/Laptop/SpriteRenderer
+    21200012: MesaReuniones_GO/MesaReuniones_GO/Mousepad/SpriteRenderer
+    21200014: MesaReuniones_GO/MesaReuniones_GO/Taza/SpriteRenderer
+    21300000: 051f682c513beb34ebc047f044886fdb
+    21300002: 48e92b3e3ea0e1641a2e4940a8d2264b
+    21300004: 0cad93f52e8c62c42a9fcde3c8934885
+    21300006: b43569ccfea023240926f6185e4b231c
+    21300008: 0f0476d7f91cb3542bd0b69cb4acecec
+    21300010: 182aeca17c0ee6e4cbe6cbb0ce502cd4
+    21300012: e039552b9c11d2145a68da484f2fa7c9
+    21300014: 4d54b13db181ead4b8b1834719169172
+    100100000: MesaReuniones_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 143
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Mousepad
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3575
+      y: 671
+      width: 293
+      height: 320
+    spriteID: 051f682c513beb34ebc047f044886fdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1746, y: 352}
+  - name: Agua
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3661
+      y: 400
+      width: 263
+      height: 263
+    spriteID: 48e92b3e3ea0e1641a2e4940a8d2264b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3398, y: -613}
+  - name: Celular
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3281
+      y: 671
+      width: 286
+      height: 329
+    spriteID: 0cad93f52e8c62c42a9fcde3c8934885
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1856, y: 517}
+  - name: Laptop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 4
+      width: 974
+      height: 659
+    spriteID: b43569ccfea023240926f6185e4b231c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1833, y: -624}
+  - name: Block
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3661
+      y: 4
+      width: 327
+      height: 388
+    spriteID: 0f0476d7f91cb3542bd0b69cb4acecec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1449, y: -563}
+  - name: Hojas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 671
+      width: 594
+      height: 731
+    spriteID: 182aeca17c0ee6e4cbe6cbb0ce502cd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2508, y: 408}
+  - name: Taza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3281
+      y: 1008
+      width: 249
+      height: 201
+    spriteID: e039552b9c11d2145a68da484f2fa7c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1320, y: 52}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2667
+      height: 1501
+    spriteID: 4d54b13db181ead4b8b1834719169172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2667, y: 1501}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Mousepad
+    spriteName: Mousepad
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 051f682c513beb34ebc047f044886fdb
+    layerID: 61
+    mosaicPosition: {x: 3575, y: 671}
+  - name: Agua
+    spriteName: Agua
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 48e92b3e3ea0e1641a2e4940a8d2264b
+    layerID: 54
+    mosaicPosition: {x: 3661, y: 400}
+  - name: Celular
+    spriteName: Celular
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0cad93f52e8c62c42a9fcde3c8934885
+    layerID: 45
+    mosaicPosition: {x: 3281, y: 671}
+  - name: Laptop
+    spriteName: Laptop
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b43569ccfea023240926f6185e4b231c
+    layerID: 36
+    mosaicPosition: {x: 2679, y: 4}
+  - name: Block
+    spriteName: Block
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f0476d7f91cb3542bd0b69cb4acecec
+    layerID: 23
+    mosaicPosition: {x: 3661, y: 4}
+  - name: Hojas
+    spriteName: Hojas
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 182aeca17c0ee6e4cbe6cbb0ce502cd4
+    layerID: 15
+    mosaicPosition: {x: 2679, y: 671}
+  - name: Taza
+    spriteName: Taza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e039552b9c11d2145a68da484f2fa7c9
+    layerID: 8
+    mosaicPosition: {x: 3281, y: 1008}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d54b13db181ead4b8b1834719169172
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: MesaReuniones
+  prefabAssetName: MesaReuniones_GO

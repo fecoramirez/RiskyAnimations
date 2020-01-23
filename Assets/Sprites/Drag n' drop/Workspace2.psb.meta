@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: ee7be26f44d9bc44caf14f2de9960612
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Workspace2_GO/Workspace2_GO
+    100002: Workspace2_GO/Workspace2_GO/Audifonos
+    100004: Workspace2_GO/Workspace2_GO/Bg
+    100006: Workspace2_GO/Workspace2_GO/Block
+    100008: Workspace2_GO/Workspace2_GO/Cafe
+    100010: Workspace2_GO/Workspace2_GO/Laptop
+    100012: Workspace2_GO/Workspace2_GO/Mouse
+    100014: Workspace2_GO/Workspace2_GO/Papel
+    100016: Workspace2_GO/Workspace2_GO/Tablet
+    400000: Workspace2_GO/Workspace2_GO/Transform
+    400002: Workspace2_GO/Workspace2_GO/Audifonos/Transform
+    400004: Workspace2_GO/Workspace2_GO/Bg/Transform
+    400006: Workspace2_GO/Workspace2_GO/Block/Transform
+    400008: Workspace2_GO/Workspace2_GO/Cafe/Transform
+    400010: Workspace2_GO/Workspace2_GO/Laptop/Transform
+    400012: Workspace2_GO/Workspace2_GO/Mouse/Transform
+    400014: Workspace2_GO/Workspace2_GO/Papel/Transform
+    400016: Workspace2_GO/Workspace2_GO/Tablet/Transform
+    2800000: Workspace2
+    21200000: Workspace2_GO/Workspace2_GO/Audifonos/SpriteRenderer
+    21200002: Workspace2_GO/Workspace2_GO/Bg/SpriteRenderer
+    21200004: Workspace2_GO/Workspace2_GO/Block/SpriteRenderer
+    21200006: Workspace2_GO/Workspace2_GO/Cafe/SpriteRenderer
+    21200008: Workspace2_GO/Workspace2_GO/Laptop/SpriteRenderer
+    21200010: Workspace2_GO/Workspace2_GO/Mouse/SpriteRenderer
+    21200012: Workspace2_GO/Workspace2_GO/Papel/SpriteRenderer
+    21200014: Workspace2_GO/Workspace2_GO/Tablet/SpriteRenderer
+    21300000: 582eeeae2be59964fb59fac4640d7354
+    21300002: ee786c9cc2417ae4caa1c75b9570d387
+    21300004: dbbb33cfafe4c58439c9a4b1c5355345
+    21300006: 4ae1855f39b22e04d989f6598e96d03a
+    21300008: b08ffb57c51dc9f4487c01ddf6f00abd
+    21300010: 1c69d2455ba20594abab3402bd0fc8db
+    21300012: 0cf4796db7b080b42b45054c073c54d9
+    21300014: 21797365f36b7bf46929a36155ff8b88
+    100100000: Workspace2_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 143
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Audifonos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1512
+      width: 494
+      height: 494
+    spriteID: 582eeeae2be59964fb59fac4640d7354
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -101, y: 933}
+  - name: Tablet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3280
+      y: 671
+      width: 455
+      height: 576
+    spriteID: ee786c9cc2417ae4caa1c75b9570d387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1090, y: 585}
+  - name: Laptop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 4
+      width: 974
+      height: 659
+    spriteID: dbbb33cfafe4c58439c9a4b1c5355345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1832, y: -410}
+  - name: Block
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3661
+      y: 4
+      width: 327
+      height: 388
+    spriteID: 4ae1855f39b22e04d989f6598e96d03a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3256, y: -123}
+  - name: Papel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2679
+      y: 671
+      width: 593
+      height: 731
+    spriteID: b08ffb57c51dc9f4487c01ddf6f00abd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 706, y: -42}
+  - name: Cafe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3661
+      y: 400
+      width: 249
+      height: 201
+    spriteID: 1c69d2455ba20594abab3402bd0fc8db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2833, y: -774}
+  - name: Mouse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3743
+      y: 671
+      width: 294
+      height: 320
+    spriteID: 0cf4796db7b080b42b45054c073c54d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 457}
+  - name: Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2667
+      height: 1500
+    spriteID: 21797365f36b7bf46929a36155ff8b88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2667, y: 1500}
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Audifonos
+    spriteName: Audifonos
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 582eeeae2be59964fb59fac4640d7354
+    layerID: 57
+    mosaicPosition: {x: 4, y: 1512}
+  - name: Tablet
+    spriteName: Tablet
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ee786c9cc2417ae4caa1c75b9570d387
+    layerID: 48
+    mosaicPosition: {x: 3280, y: 671}
+  - name: Laptop
+    spriteName: Laptop
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dbbb33cfafe4c58439c9a4b1c5355345
+    layerID: 43
+    mosaicPosition: {x: 2679, y: 4}
+  - name: Block
+    spriteName: Block
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4ae1855f39b22e04d989f6598e96d03a
+    layerID: 30
+    mosaicPosition: {x: 3661, y: 4}
+  - name: Papel
+    spriteName: Papel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b08ffb57c51dc9f4487c01ddf6f00abd
+    layerID: 22
+    mosaicPosition: {x: 2679, y: 671}
+  - name: Cafe
+    spriteName: Cafe
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c69d2455ba20594abab3402bd0fc8db
+    layerID: 15
+    mosaicPosition: {x: 3661, y: 400}
+  - name: Mouse
+    spriteName: Mouse
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0cf4796db7b080b42b45054c073c54d9
+    layerID: 11
+    mosaicPosition: {x: 3743, y: 671}
+  - name: Bg
+    spriteName: Bg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 21797365f36b7bf46929a36155ff8b88
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Workspace2
+  prefabAssetName: Workspace2_GO
